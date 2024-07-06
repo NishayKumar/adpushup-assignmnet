@@ -1,0 +1,6 @@
+framework module Pods_adpushup {
+  umbrella header "Pods-adpushup-umbrella.h"
+
+  export *
+  module * { export * }
+}
